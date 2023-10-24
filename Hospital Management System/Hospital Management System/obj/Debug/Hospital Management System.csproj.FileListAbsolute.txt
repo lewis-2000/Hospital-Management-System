@@ -502,3 +502,118 @@ C:\Users\Usman\Desktop\Hospital-Management-System-1\Hospital Management System\H
 C:\Users\Usman\Desktop\Hospital-Management-System-1\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CopyComplete
 C:\Users\Usman\Desktop\Hospital-Management-System-1\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.dll
 C:\Users\Usman\Desktop\Hospital-Management-System-1\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\csc.exe
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\vbc.exe
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\VBCSCompiler.exe
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Hospital Management System.dll.config
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Hospital Management System.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Hospital Management System.pdb
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Antlr3.Runtime.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\EntityFramework.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\EntityFramework.SqlServer.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Newtonsoft.Json.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Owin.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.Helpers.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.Mvc.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.Optimization.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.Razor.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.Deployment.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.Razor.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\WebGrease.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.Helpers.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.Mvc.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.Optimization.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.Razor.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.Deployment.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\System.Web.WebPages.Razor.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Antlr3.Runtime.pdb
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Newtonsoft.Json.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\EntityFramework.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\EntityFramework.SqlServer.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.initialModel.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddDepartmentInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddReqiuredFieldInDepartment.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddUserNameToRegisterViewModel.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddAmbulanceInDb.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddAmbulanceDriverInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddUserRole.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.userrole.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.addAmbulanceDriversInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddAmbulanceToDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.ChangesInAmbulanceDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddMedicineInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddRegisteredDateInAspNetUsersDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddPatientInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.ChangeReturnTypeInPatientDb.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.DropDownThePatientInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AgainAddPatientInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddDoctorInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddScheduleInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.ChangeInScheduleDb.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.DropScheduleForSomeChanges.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AgainAddScheduleInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AgainAddScheduleInDB1.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddFullNameInDoctorDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddPrescriptionInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.DropPrescriptionForSomeChanges.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AgainAddPrescriptionInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AgainAddPrescriptionInDB1.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.dropprescription.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.Prescription.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddFullNameInPatientDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddUserNameInPrescriptionDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.ChangeLongtoStringInPatient.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddReviewsInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.ChangeInPrescriptionDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddPrescriptionDateinPrescriptionDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddAppointmentInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.MakeNullableDateInAppointmentDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddAnnouncementInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddStatusInDoctorDb.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddComplaintInDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.AddReplyInComplaintDB.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.DropRiviewFromDb.resources
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CopyComplete
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.dll
+C:\Users\flamm\code\hospitalSystem\Hospital-Management-System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
